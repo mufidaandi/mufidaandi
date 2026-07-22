@@ -1,10 +1,12 @@
 # Bonjour, hi there! 👋 I'm Mufi.
 
-I build stuff for the web. Love working with React, Next.js, and making things look pretty with Tailwind. Also mess around with Node.js, Python, and Java on the backend.
+I test software for a living — accessibility audits, manual QA, and automated coverage with Playwright. I came up as a developer first, so I don't just find bugs: I can read the source, write the tests, and build the tooling that catches them before they ship.
 
-Currently into AI integrations and building smooth user experiences. Check out my pinned projects below to see what I've been working on!
+Currently an Accessibility QA Analyst at NEOGOV (WCAG 2.1/2.2, Section 508, DHS Trusted Tester certified), moving into QA automation — writing Playwright suites (API, CRUD, auth, smoke tests) and wiring them into CI. Check out my pinned projects below to see it in action.
 
-**Tech I use:** React • Next.js • TypeScript • Node.js • Python • Tailwind CSS • Framer Motion
+**Test Automation & QA:** Playwright • API Testing • CI/CD (GitHub Actions) • WCAG 2.1/2.2 & Section 508 • Test Strategy & Planning • Jira • TestRail
+
+**Dev background:** React • Next.js • TypeScript • Node.js • Express.js • Python • Java
 
 **Wanna chat?** Reach me at [contact@heymufi.com](mailto:contact@heymufi.com) or connect on [LinkedIn](https://linkedin.com/in/mufidaandi)!
 
